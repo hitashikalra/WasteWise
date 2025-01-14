@@ -1,1 +1,14 @@
+# Backend
+__pycache__/
+*.py[cod]
+*.db
+instance/
+
+# Frontend
+node_modules/
+build/
+
+# System Files
+.DS_Store
+Thumbs.db
 
